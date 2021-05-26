@@ -56,7 +56,7 @@ client.on('clickButton', async (button) => {
     button.reply.edit('trueee', btn2)
 });
 
-client.login('');
+client.login(''); // ziro tuka dosta neshta napravi q mu daite contributor :shy: :checkdms: :hamburger:
 
 function wait(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
